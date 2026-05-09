@@ -22,7 +22,7 @@ def home():
         </style>
     </head>
     <body>
-        <h1>App Engine Works 🚀</h1>
+        <h1>App Engine Working</h1>
         <p>Python + Flask + Google Cloud</p>
     </body>
     </html>
